@@ -1,0 +1,13 @@
+{
+  "name": "com.northgard.gameresources",
+  "version": "1.0.0",
+  "displayName": "Northgard.GameResources",
+  "description": "Northgard Game Resources Service",
+  "unity": "2021.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Rasoul Shahhoseini"
+  },
+  "type": "library",
+  "hideInEditor": false
+}
